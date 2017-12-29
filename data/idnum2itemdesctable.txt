@@ -1,0 +1,1181 @@
+20000#
+^008000[ arc angel balloon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20001#
+^008000[ Ayashas Tail ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20002#
+^008000[ bad fury balloon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20003#
+^008000[ Batring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20004#
+^008000[ blackchakra ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20005#
+^008000[ Black Red Fox Tail ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20006#
+^008000[ Black Fox Tail ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20007#
+^008000[ Black Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20008#
+^008000[ Black Gold Aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20009#
+^008000[ black magic ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20010#
+^008000[ Black Red Aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20011#
+^008000[ Black Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20012#
+^008000[ Black Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20013#
+^008000[ black sol ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20014#
+^008000[ Blue Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20015#
+^008000[ blue lhz aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20016#
+^008000[ Blue Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20017#
+^008000[ Blue Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20018#
+^008000[ Blue Sword ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20019#
+^008000[ Brown Fox Tail ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20020#
+^008000[ Butterfly Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20021#
+^008000[ Candy Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20022#
+^008000[ circuloderosas ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20023#
+^008000[ CookieRing ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20024#
+^008000[ Cyan Aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20025#
+^008000[ Cyan Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20026#
+^008000[ Cyan Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20027#
+^008000[ Cyan Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20028#
+^008000[ cyan sol ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20029#
+^008000[ DeathNotes Purple Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20030#
+^008000[ demoniac tail ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20031#
+^008000[ diamond dust ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20032#
+^008000[ Dull Seracillas Ribbon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20033#
+^008000[ fallen ghost ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20034#
+^008000[ feather ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20035#
+^008000[ fire spirit2 ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20036#
+^008000[ Freyas Pauldron ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20037#
+^008000[ goldflame ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20038#
+^008000[ Gold Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20039#
+^008000[ Gold Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20040#
+^008000[ Gold Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20041#
+^008000[ gothichat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20042#
+^008000[ greenflame ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20043#
+^008000[ Green Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20044#
+^008000[ green lhz aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20045#
+^008000[ Green Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20046#
+^008000[ Green Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20047#
+^008000[ Grinch Sack ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20048#
+^008000[ Half Angel Lighthalzen Aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20049#
+^008000[ Half Demon Lighthalzen Aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20050#
+^008000[ Halloween Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20051#
+^008000[ LDTail ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20052#
+^008000[ Lilypad Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20053#
+^008000[ musicring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20054#
+^008000[ Nico ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20055#
+^008000[ Nightmare Chakra ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20056#
+^008000[ nightscarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20057#
+^008000[ Pink Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20058#
+^008000[ Powerspell ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20059#
+^008000[ purplechakra ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20060#
+^008000[ Purple Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20061#
+^008000[ Purple Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20062#
+^008000[ red lhz aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20063#
+^008000[ Red Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20064#
+^008000[ Red Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20065#
+^008000[ rosering ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20066#
+^008000[ rune of prophecy ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20067#
+^008000[ Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20068#
+^008000[ Santa Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20069#
+^008000[ Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20070#
+^008000[ snowflake ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20071#
+^008000[ torobbie balloon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20072#
+^008000[ wateraura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20073#
+^008000[ whitechakra ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20074#
+^008000[ white akatsuki ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20075#
+^008000[ White Gangster Scarf ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20076#
+^008000[ White Sage Ring ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20077#
+^008000[ yellowchakra ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20078#
+^008000[ Ying Yang Aura ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Middle^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20079#
+^008000[ bunnyhat1 ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20080#
+^008000[ demoniac cloak ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20081#
+^008000[ Folhas Caindo Articas ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20082#
+^008000[ Folhas Caindo de Neve ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20083#
+^008000[ Folhas Caindo Douradas ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20084#
+^008000[ Folhas Caindo Negras ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20085#
+^008000[ Folhas Caindo Rosa ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20086#
+^008000[ Folhas Caindo Verdejantes ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20087#
+^008000[ Half Angel Valk ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20088#
+^008000[ Half Demon Valk ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20089#
+^008000[ harlequin hat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20090#
+^008000[ Imp Hat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20091#
+^008000[ leopardhat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20092#
+^008000[ mousehat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20093#
+^008000[ pighat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20094#
+^008000[ Ying Yang Deviruchi Hat ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Upper^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20095#
+^008000[ Black Dragon Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20096#
+^008000[ Blue Dragon Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20097#
+^008000[ dark claw wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20098#
+^008000[ demoniac wing ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20099#
+^008000[ Emerald Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20100#
+^008000[ Freyas Great Sword ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20101#
+^008000[ Half Angel Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20102#
+^008000[ Half Demon Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20103#
+^008000[ lord angel wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20104#
+^008000[ PureBlue Dragoon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20105#
+^008000[ PureFlame Dragoon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20106#
+^008000[ PureFrozen Dragoon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20107#
+^008000[ PureMetallish Dragoon ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20108#
+^008000[ Red Dragon Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20109#
+^008000[ Yin Yang Voodoo Wings ]^000000
+Item description coming soon~
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Lower^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20110#
+^008000[ akatsuki conan ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20111#
+^008000[ akatsuki itachi ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20112#
+^008000[ akatsuki kakuzo ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20113#
+^008000[ akatsuki kisame ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20114#
+^008000[ akatsuki pein ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20115#
+^008000[ akatsuki sasori ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20116#
+^008000[ akatsuki zetsu ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+20117#
+^008000[ akatuki hidanan ]^000000
+Item description coming soon~
+Class :^777777 Armor^000000
+Defense :^777777 5^000000
+Equipped On :^777777 Armor^000000
+Weight :^777777 10^000000
+Required Level :^777777 1^000000
+Applicable Job :^777777 Every Job^000000
+#
+

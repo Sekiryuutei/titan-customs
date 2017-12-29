@@ -1,0 +1,120 @@
+20000#arc angel balloon#
+20001#Ayashas Tail#
+20002#bad fury balloon#
+20003#Batring#
+20004#blackchakra#
+20005#Black Red Fox Tail#
+20006#Black Fox Tail#
+20007#Black Gangster Scarf#
+20008#Black Gold Aura#
+20009#black magic#
+20010#Black Red Aura#
+20011#Black Sage Ring#
+20012#Black Scarf#
+20013#black sol#
+20014#Blue Gangster Scarf#
+20015#blue lhz aura#
+20016#Blue Sage Ring#
+20017#Blue Scarf#
+20018#Blue Sword#
+20019#Brown Fox Tail#
+20020#Butterfly Ring#
+20021#Candy Ring#
+20022#circuloderosas#
+20023#CookieRing#
+20024#Cyan Aura#
+20025#Cyan Gangster Scarf#
+20026#Cyan Sage Ring#
+20027#Cyan Scarf#
+20028#cyan sol#
+20029#DeathNotes Purple Scarf#
+20030#demoniac tail#
+20031#diamond dust#
+20032#Dull Seracillas Ribbon#
+20033#fallen ghost#
+20034#feather ring#
+20035#fire spirit2#
+20036#Freyas Pauldron#
+20037#goldflame#
+20038#Gold Gangster Scarf#
+20039#Gold Sage Ring#
+20040#Gold Scarf#
+20041#gothichat#
+20042#greenflame#
+20043#Green Gangster Scarf#
+20044#green lhz aura#
+20045#Green Sage Ring#
+20046#Green Scarf#
+20047#Grinch Sack#
+20048#Half Angel Lighthalzen Aura#
+20049#Half Demon Lighthalzen Aura#
+20050#Halloween Scarf#
+20051#LDTail#
+20052#Lilypad Ring#
+20053#musicring#
+20054#Nico#
+20055#Nightmare Chakra#
+20056#nightscarf#
+20057#Pink Scarf#
+20058#Powerspell#
+20059#purplechakra#
+20060#Purple Gangster Scarf#
+20061#Purple Sage Ring#
+20062#red lhz aura#
+20063#Red Sage Ring#
+20064#Red Scarf#
+20065#rosering#
+20066#rune of prophecy#
+20067#Sage Ring#
+20068#Santa Scarf#
+20069#Scarf#
+20070#snowflake#
+20071#torobbie balloon#
+20072#wateraura#
+20073#whitechakra#
+20074#white akatsuki#
+20075#White Gangster Scarf#
+20076#White Sage Ring#
+20077#yellowchakra#
+20078#Ying Yang Aura#
+20079#bunnyhat1#
+20080#demoniac cloak#
+20081#Folhas Caindo Articas#
+20082#Folhas Caindo de Neve#
+20083#Folhas Caindo Douradas#
+20084#Folhas Caindo Negras#
+20085#Folhas Caindo Rosa#
+20086#Folhas Caindo Verdejantes#
+20087#Half Angel Valk#
+20088#Half Demon Valk#
+20089#harlequin hat#
+20090#Imp Hat#
+20091#leopardhat#
+20092#mousehat#
+20093#pighat#
+20094#Ying Yang Deviruchi Hat#
+20095#Black Dragon Wings#
+20096#Blue Dragon Wings#
+20097#dark claw wings#
+20098#demoniac wing#
+20099#Emerald Wings#
+20100#Freyas Great Sword#
+20101#Half Angel Wings#
+20102#Half Demon Wings#
+20103#lord angel wings#
+20104#PureBlue Dragoon#
+20105#PureFlame Dragoon#
+20106#PureFrozen Dragoon#
+20107#PureMetallish Dragoon#
+20108#Red Dragon Wings#
+20109#Yin Yang Voodoo Wings#
+20110#akatsuki conan#
+20111#akatsuki itachi#
+20112#akatsuki kakuzo#
+20113#akatsuki kisame#
+20114#akatsuki pein#
+20115#akatsuki sasori#
+20116#akatsuki zetsu#
+20117#akatuki hidanan#
+
+

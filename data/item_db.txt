@@ -1,0 +1,126 @@
+// Mid Custom
+20000,arc_angel_balloon,arc angel balloon,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1000,{},{},{}
+20001,Ayashas_Tail,Ayashas Tail,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1001,{},{},{}
+20002,bad_fury_balloon,bad fury balloon,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1002,{},{},{}
+20003,Batring,Batring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1003,{},{},{}
+20004,blackchakra,blackchakra,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1004,{},{},{}
+20005,BlackRed_Fox_Tail,BlackRed Fox Tail,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1005,{},{},{}
+20006,Black_Fox_Tail,Black Fox Tail,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1006,{},{},{}
+20007,Black_Gangster_Scarf,Black Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1007,{},{},{}
+20008,Black_Gold_Aura,Black Gold Aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1008,{},{},{}
+20009,black_magic,black magic,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1009,{},{},{}
+20010,Black_Red_Aura,Black Red Aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1010,{},{},{}
+20011,Black_Sage_Ring,Black Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1011,{},{},{}
+20012,Black_Scarf,Black Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1012,{},{},{}
+20013,black_sol,black sol,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1013,{},{},{}
+20014,Blue_Gangster_Scarf,Blue Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1014,{},{},{}
+20015,blue_lhz_aura,blue lhz aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1015,{},{},{}
+20016,Blue_Sage_Ring,Blue Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1016,{},{},{}
+20017,Blue_Scarf,Blue Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1017,{},{},{}
+20018,Blue_Sword,Blue Sword,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1018,{},{},{}
+20019,Brown_Fox_Tail,Brown Fox Tail,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1019,{},{},{}
+20020,Butterfly_Ring,Butterfly Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1020,{},{},{}
+20021,Candy_Ring,Candy Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1021,{},{},{}
+20022,circuloderosas,circuloderosas,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1022,{},{},{}
+20023,CookieRing,CookieRing,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1023,{},{},{}
+20024,Cyan_Aura,Cyan Aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1024,{},{},{}
+20025,Cyan_Gangster_Scarf,Cyan Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1025,{},{},{}
+20026,Cyan_Sage_Ring,Cyan Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1026,{},{},{}
+20027,Cyan_Scarf,Cyan Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1027,{},{},{}
+20028,cyan_sol,cyan sol,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1028,{},{},{}
+20029,DeathNotes_Purple_Scarf,DeathNotes Purple Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1029,{},{},{}
+20030,demoniac_tail,demoniac tail,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1030,{},{},{}
+20031,diamond_dust,diamond dust,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1031,{},{},{}
+20032,Dull_Seracillas_Ribbon,Dull Seracillas Ribbon,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1032,{},{},{}
+20033,fallen_ghost,fallen ghost,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1033,{},{},{}
+20034,feather_ring,feather ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1034,{},{},{}
+20035,fire_spirit2,fire spirit2,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1035,{},{},{}
+20036,Freyas_Pauldron,Freyas Pauldron,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1036,{},{},{}
+20037,goldflame,goldflame,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1037,{},{},{}
+20038,Gold_Gangster_Scarf,Gold Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1038,{},{},{}
+20039,Gold_Sage_Ring,Gold Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1039,{},{},{}
+20040,Gold_Scarf,Gold Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1040,{},{},{}
+20041,gothichat,gothichat,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1041,{},{},{}
+20042,greenflame,greenflame,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1042,{},{},{}
+20043,Green_Gangster_Scarf,Green Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1043,{},{},{}
+20044,green_lhz_aura,green lhz aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1044,{},{},{}
+20045,Green_Sage_Ring,Green Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1045,{},{},{}
+20046,Green_Scarf,Green Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1046,{},{},{}
+20047,Grinch_Sack,Grinch Sack,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1047,{},{},{}
+20048,Half_Angel_Lighthalzen_Aura,Half Angel Lighthalzen Aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1048,{},{},{}
+20049,Half_Demon_Lighthalzen_Aura,Half Demon Lighthalzen Aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1049,{},{},{}
+20050,Halloween_Scarf,Halloween Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1050,{},{},{}
+20051,LDTail,LDTail,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1051,{},{},{}
+20052,Lilypad_Ring,Lilypad Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1052,{},{},{}
+20053,musicring,musicring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1053,{},{},{}
+20054,Nico,Nico,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1054,{},{},{}
+20055,Nightmare_Chakra,Nightmare Chakra,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1055,{},{},{}
+20056,nightscarf,nightscarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1056,{},{},{}
+20057,Pink_Scarf,Pink Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1057,{},{},{}
+20058,Powerspell,Powerspell,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1058,{},{},{}
+20059,purplechakra,purplechakra,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1059,{},{},{}
+20060,Purple_Gangster_Scarf,Purple Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1060,{},{},{}
+20061,Purple_Sage_Ring,Purple Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1061,{},{},{}
+20062,red_lhz_aura,red lhz aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1062,{},{},{}
+20063,Red_Sage_Ring,Red Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1063,{},{},{}
+20064,Red_Scarf,Red Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1064,{},{},{}
+20065,rosering,rosering,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1065,{},{},{}
+20066,rune_of_prophecy,rune of prophecy,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1066,{},{},{}
+20067,Sage_Ring,Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1067,{},{},{}
+20068,Santa_Scarf,Santa Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1068,{},{},{}
+20069,Scarf,Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1069,{},{},{}
+20070,snowflake,snowflake,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1070,{},{},{}
+20071,torobbie_balloon,torobbie balloon,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1071,{},{},{}
+20072,wateraura,wateraura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1072,{},{},{}
+20073,whitechakra,whitechakra,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1073,{},{},{}
+20074,white_akatsuki,white akatsuki,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1074,{},{},{}
+20075,White_Gangster_Scarf,White Gangster Scarf,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1075,{},{},{}
+20076,White_Sage_Ring,White Sage Ring,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1076,{},{},{}
+20077,yellowchakra,yellowchakra,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1077,{},{},{}
+20078,Ying_Yang_Aura,Ying Yang Aura,5,5,0,10,,5,,3,0xFFFFFFFF,7,2,512,,1,1,1078,{},{},{}
+
+// Upper Custom
+20079,bunnyhat1,bunnyhat1,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1079,{},{},{}
+20080,demoniac_cloak,demoniac cloak,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1080,{},{},{}
+20081,Folhas_Caindo_Articas,Folhas Caindo Articas,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1081,{},{},{}
+20082,Folhas_Caindo_de_Neve,Folhas Caindo de Neve,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1082,{},{},{}
+20083,Folhas_Caindo_Douradas,Folhas Caindo Douradas,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1083,{},{},{}
+20084,Folhas_Caindo_Negras,Folhas Caindo Negras,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1084,{},{},{}
+20085,Folhas_Caindo_Rosa,Folhas Caindo Rosa,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1085,{},{},{}
+20086,Folhas_Caindo_Verdejantes,Folhas Caindo Verdejantes,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1086,{},{},{}
+20087,Half_Angel_Valk,Half Angel Valk,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1087,{},{},{}
+20088,Half_Demon_Valk,Half Demon Valk,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1088,{},{},{}
+20089,harlequin_hat,harlequin hat,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1089,{},{},{}
+20090,Imp_Hat,Imp Hat,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1090,{},{},{}
+20091,leopardhat,leopardhat,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1091,{},{},{}
+20092,mousehat,mousehat,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1092,{},{},{}
+20093,pighat,pighat,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1093,{},{},{}
+20094,Ying_Yang_Deviruchi_Hat,Ying Yang Deviruchi Hat,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,256,,1,1,1094,{},{},{}
+
+// Lower Wings
+20095,Black_Dragon_Wings,Black Dragon Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1095,{},{},{}
+20096,Blue_Dragon_Wings,Blue Dragon Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1096,{},{},{}
+20097,dark_claw_wings,dark claw wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1097,{},{},{}
+20098,demoniac_wing,demoniac wing,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1098,{},{},{}
+20099,Emerald_Wings,Emerald Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1099,{},{},{}
+20100,Freyas_Great_Sword,Freyas Great Sword,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1100,{},{},{}
+20101,Half_Angel_Wings,Half Angel Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1101,{},{},{}
+20102,Half_Demon_Wings,Half Demon Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1102,{},{},{}
+20103,lord_angel_wings,lord angel wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1103,{},{},{}
+20104,PureBlue_Dragoon,PureBlue Dragoon,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1104,{},{},{}
+20105,PureFlame_Dragoon,PureFlame Dragoon,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1105,{},{},{}
+20106,PureFrozen_Dragoon,PureFrozen Dragoon,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1106,{},{},{}
+20107,PureMetallish_Dragoon,PureMetallish Dragoon,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1107,{},{},{}
+20108,Red_Dragon_Wings,Red Dragon Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1108,{},{},{}
+20109,Yin_Yang_Voodoo_Wings,Yin Yang Voodoo Wings,5,5,0,10,,5,,4,0xFFFFFFFF,7,2,1,,1,1,1109,{},{},{}
+
+// Custom Armor
+20110,akatsuki_conan,akatsuki conan,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20111,akatsuki_itachi,akatsuki itachi,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20112,akatsuki_kakuzo,akatsuki kakuzo,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20113,akatsuki_kisame,akatsuki kisame,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20114,akatsuki_pein,akatsuki pein,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20115,akatsuki_sasori,akatsuki sasori,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20116,akatsuki_zetsu,akatsuki zetsu,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+20117,akatuki_hidanan,akatuki hidanan,5,5,0,10,,5,,1,0xFFFFFFFF,7,2,16,,1,1,0,{},{},{}
+
